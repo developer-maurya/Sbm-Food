@@ -1,0 +1,14 @@
+#navebar{
+    margin-left: 400px;
+}
+#diplay{
+    display: flex;
+}
+
+#back{
+    /* width: 10px; */
+    /* height: 40px; */
+    background-color:rgb(119, 206, 148) ;
+    z-index: 1;
+
+}
